@@ -3,8 +3,6 @@
 # Author : Chethan C
 # Script to commit & push data to GIT repository
 
-#echo $1
-
 # To add any missing/updated file
 git add .
 
