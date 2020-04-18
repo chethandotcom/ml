@@ -1,4 +1,4 @@
-# Meachine Learning
+# Machine Learning
 
 Introduction
 ---
