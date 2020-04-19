@@ -27,6 +27,7 @@ In general, any machine learning problem can be assigned to one of two broad cla
 2. **[Unsupervised learning](#unsupervised-learning)**
 
 <br>
+
 Supervised learning
 ---
 In supervised learning, we are given a data set and already know what our correct output should look like, having the idea that there is a relationship between the input and the output.
@@ -46,6 +47,7 @@ We could turn this example into a classification problem by instead making our o
 2. **Classification** - Given a patient with a tumor, we have to predict whether the tumor is malignant or benign.
 
 <br>
+
 Unsupervised learning
 ---
 Unsupervised learning allows us to approach problems with little or no idea what our results should look like. We can derive structure from data where we don't necessarily know the effect of the variables.
